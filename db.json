@@ -1,0 +1,32 @@
+{
+    "cards":[
+        {
+            "id":1,
+            "image":"https://resources.workable.com/wp-content/uploads/2017/03/Recruiting-via-text-message.png",
+            "title":"Realtime charts",
+            "paragraph":"From dashboards to stock charts, update data instantly"
+        },
+        {
+            "id":2,
+            "image":"https://blog.clicksend.com/wp-content/uploads/2021/05/TheConsumerPointofView_f26f130d8bf0901cbac0e664702a2f93_800.jpg",
+            "title":"Notification",
+            "paragraph":"Critical transactional information,delivered every time"
+
+        },
+        {
+            "id":3,
+            "image":"https://gocrm.io/wp-content/uploads/2022/05/text-marketing-for-pts.jpg",
+            "title":"Location tracking",
+            "paragraph":"From food delivery to order status, realtime updates at scale"
+
+        }
+        ,
+        {
+            "id":4,
+            "image":"https://assets-global.website-files.com/5fb26947f544d1f78fd68d3c/6231eb2119b463ba5dcacc0d_SMS-vs-Email.png",
+            "title":"In app chat",
+            "paragraph":"Bring delightful conversational experiences to all your users"
+
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+:root{
+  --dark-purple:#300d4f;
+  --light-purple:#c7b9ff;
+}
+
+html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+    letter-spacing: 1px;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+}
+button{
+  border: none;
+  padding: 0.2rem;
+  width: 5rem;
+  font-weight: bold;
+}
+ul li{
+  list-style: none;
+}
